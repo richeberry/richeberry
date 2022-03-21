@@ -2,8 +2,8 @@
 
 I’m currently learning 
 
-### 🔥 Data Engineering 
-### 🔥 Machine Learning
+#### 🔥 Data Engineering 
+#### 🔥 Machine Learning
 
 ### ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=richeberry&show_icons=true&theme=radical)
 
